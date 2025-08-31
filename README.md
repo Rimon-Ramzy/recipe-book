@@ -1,2 +1,2 @@
-Email: remon@gmail.com /n
+Email: remon@gmail.com \n
 password: Remon2001
